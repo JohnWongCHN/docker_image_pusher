@@ -1,4 +1,8 @@
 nginx
+mediacms/mediacms
+postgres:15.2-alpine
+redis:alpine
+
 #支持私库
 docker.n8n.io/n8nio/n8n
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
