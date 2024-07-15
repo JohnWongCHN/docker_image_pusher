@@ -1,4 +1,5 @@
 nginx
+jwilder/nginx-proxy
 mediacms/mediacms
 postgres:15.2-alpine
 redis:alpine
